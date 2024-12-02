@@ -36,27 +36,23 @@
 
 ### 1. **로그인 및 회원가입**
 
-![Login Page](#)  
 <sup>**![image](https://github.com/user-attachments/assets/93f4fd7e-9c98-4fbd-a366-291715be06f8)**</sup>
 <sup>**![image](https://github.com/user-attachments/assets/b6f94721-e933-4361-844e-36b20411fdaa)**</sup>
 <sup>**![image](https://github.com/user-attachments/assets/430e5b50-9211-4256-b2ea-c71e8568fff9)**</sup>
 
 ### 2. **시험 생성**
 
-![Create Exam](#)  
 <sup>**![image](https://github.com/user-attachments/assets/4ee03f61-1530-4d9f-81d2-073fa17b9c2b)**</sup>
 <sup>**![image](https://github.com/user-attachments/assets/ea38624f-be30-49b7-bf8b-bdddc07768f3)**</sup>
 
 ### 3. **시험 응시**
 
-![Take Exam](#)  
 <sup>**![image](https://github.com/user-attachments/assets/cc3121b2-d933-495d-b708-3e6730b76589)**</sup>
 <sup>**![image](https://github.com/user-attachments/assets/617c34fb-3469-4aa1-af44-faf269fc8095)**</sup>
 <sup>**![image](https://github.com/user-attachments/assets/5908f398-364e-43e8-b1f4-8608d5514682)**</sup>
 
 ### 4. **시험 감독**
 
-![Cheat Detection](#)  
 <sup>**![image](https://github.com/user-attachments/assets/82ee8f9d-45a4-4280-b385-a32e0d7e582f)**</sup>
 <sup>**![image](https://github.com/user-attachments/assets/16986ac9-1da5-4431-aa19-8cb8d6cb6877)**</sup>
 
