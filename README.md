@@ -82,6 +82,6 @@ AntiCheating/
 
 ## **문의**
 
-질문이나 제안 사항이 있다면 아래로 연락 주세요:
-이메일: columnwise99@gmail.com
+질문이나 제안 사항이 있다면 아래로 연락 주세요  
+이메일: columnwise99@gmail.com  
 GitHub Issues를 통해서도 문의 가능합니다.
