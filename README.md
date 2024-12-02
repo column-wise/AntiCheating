@@ -1,6 +1,7 @@
 # AntiCheating
 
 **2021 Konkuk Univ. Smart ICT Convergence Engineering Capstone Design**  
+  
 <sup>![AntiCheating](https://github.com/user-attachments/assets/5a8aba48-12b1-45dc-b437-43a121b39ccb)</sup>
 
 ## **프로젝트 소개**
